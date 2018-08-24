@@ -1,0 +1,11 @@
+@import 'public';
+$width:100px;
+$height:200px;
+body{
+    div{
+        height: $width;
+        width: $height;
+        background: orange;
+    }
+}
+$fontsize:12px;
